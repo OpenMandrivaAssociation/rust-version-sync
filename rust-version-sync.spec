@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.9.2
-Release:        1
+Release:        2
 Summary:        Simple crate for ensuring that version numbers in README files are updated when the crate version changes
 
 # Upstream license specification: MIT
